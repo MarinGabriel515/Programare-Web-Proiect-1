@@ -1,0 +1,124 @@
+body 
+{
+    background: linear-gradient(to left top, cyan, yellow) fixed;
+}
+
+nav a
+{
+font-weight: bold;
+}
+
+nav section
+{
+text-align: center;
+}
+
+h1
+{
+background-image: linear-gradient(rgb(30,191,255),rgb(255,49,30));
+text-align: center;
+color: rgb(190, 171, 194);
+font-weight: bold;
+font-size: 35px;
+}
+
+section article p
+{
+    text-align: center;
+}
+
+input[name=loto]
+{
+    width:10%;
+}
+
+section.sectiune_js
+{
+    border-style: solid;
+    border-color: seagreen;
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+table.tabel_js
+{
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+th, td {
+  padding: 5px;
+}
+
+section.sectiune_persoane
+{
+    border-style: solid;
+    border-color:crimson;
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+
+section.sectiune_desen
+{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+
+section.sectiune_verifica
+{
+    border-style: solid;
+    border-color: rgb(26, 60, 212);
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+
+section.sectiune_cumparaturi
+{
+    border-style: solid;
+    border-color: rgb(31, 209, 14);
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+
+section.sectiune_video
+{
+    border-style: solid;
+    border-color: rgb(199, 19, 154);
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+
+section.sectiune_despre
+{
+    border-style: solid;
+    border-color: rgb(209, 72, 17);
+    border-width: 4px;
+    padding: 9px;
+    margin: 5px;
+}
+
+form.Test
+{
+    border-style: none;
+}
+
+nav.index_nav
+{
+  background-color: rgb(219, 108, 130);
+  text-align: center;
+  border-radius: 40px;
+  
+}
+
+nav a
+{
+    
+    font-size: 20px;
+}
+
